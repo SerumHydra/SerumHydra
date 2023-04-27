@@ -10,7 +10,7 @@ I also play guitar and am starting to work on releasing music more and more. For
 As well as this, I code! It's not my main hobby but I am making a slow comeback to coding and to being over here on GitHub releasing things. 
 
 ### Socials and ways to support me! 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SerumHydrattv?label=%SerumHydrattv&style=social)](https://twitter.com/SerumHydrattv)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SerumHydrattv?label=@SerumHydrattv&style=social)](https://twitter.com/SerumHydrattv)
 [![Patron](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/SerumHydra)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/serumhydra)
 
